@@ -22,7 +22,7 @@ h1 {
     margin-top: 5;
   }
 
-font-color: white;
+/* font-color: white; */
 .wrapper{
   position:absolute;
   top:20%;
@@ -44,7 +44,7 @@ font-color: white;
 .nav-icon-1 span{
   width: 5px;
   height: 5px;
-  background-color: #fff;
+  background-color: snow;
   display: block;
   border-radius: 50%;
   position: absolute;
