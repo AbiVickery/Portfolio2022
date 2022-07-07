@@ -32,7 +32,7 @@ const carousel = new bootstrap.Carousel(myCarouselElement, {
 
 
 
-// <!-- <div class="snow">
+// <div class="snow">
 // <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1536" preserveAspectRatio="xMidYMax slice">
 //     <g fill="#FFF" fill-opacity=".15" transform="translate(55 42)">
 //         <g id="snow-bottom-layer">
@@ -103,6 +103,15 @@ const carousel = new bootstrap.Carousel(myCarouselElement, {
 //     </g>
 // </g>
 // </svg>
-// </div> -->
+// </div>
 
-// <!-- <div class="animation-area">
+{/* <div class="animation-area">
+  <ul class="box-area">
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+</div> */}
